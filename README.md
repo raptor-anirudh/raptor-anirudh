@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raptor-anirudh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,C
 - 📫 How to reach me : mail me - raptoranirudh@gmail.com
 
 <!---
