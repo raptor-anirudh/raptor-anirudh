@@ -61,6 +61,14 @@
 - Tech: Ethereum, Solidity, Truffle, Ganache, JavaScript
 - [Repo Link](https://github.com/raptor-anirudh/LandRegistry_Blockchain)
 
+### 🔹 AI Email Triage Agent (HITL + MCP)
+- Building an autonomous email triage system using LangGraph with Human-in-the-Loop (HITL) workflows
+- Classifies emails (spam, urgent, support, sales, internal) and drafts contextual replies using CRM and knowledge base data
+- Implements agent orchestration with interrupt/resume flows, state persistence, and human approval before execution
+- Designed for real-world integration with Gmail APIs and extensible via FastAPI for webhook-based systems
+- Tech: Python, LangGraph, FastAPI, Google Gemini (LLM), MCP, Async APIs
+- (Coming soon)
+
 ---
 
 ## 🤝 Connect With Me
