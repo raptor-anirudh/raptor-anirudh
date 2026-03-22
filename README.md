@@ -16,8 +16,19 @@
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 </td>
+<td width="50%">
+
+### 🌐 Web Fundamentals
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ⚙️ Backend & APIs
@@ -25,9 +36,6 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🤖 AI / Agent Systems
@@ -36,11 +44,21 @@
 ![Tooling](https://img.shields.io/badge/-Tool%20Orchestration-000)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📊 Data & Processing
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+
+</td>
+<td width="50%">
+
+### 🖥️ Systems & Environment
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Unix](https://img.shields.io/badge/-Unix-000)
 
 </td>
 </tr>
@@ -51,7 +69,6 @@
 ### 🛠️ Tools & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 </td>
 </tr>
