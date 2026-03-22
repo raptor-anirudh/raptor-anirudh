@@ -42,8 +42,10 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raptor-anirudh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raptor-anirudh&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raptor-anirudh&show_icons=true&hide_border=true&include_all_commits=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=raptor-anirudh&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raptor-anirudh)
 
 ---
 
@@ -55,7 +57,6 @@
 - Leverages smart contracts to eliminate intermediaries and ensure immutable transaction history
 - Tech: Ethereum, Solidity, Truffle, Ganache, JavaScript
 - [Repo Link](https://github.com/raptor-anirudh/LandRegistry_Blockchain)
-
 
 ---
 
