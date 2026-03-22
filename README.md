@@ -10,33 +10,52 @@
 
 ## 🧰 Tech Stack
 
+<table width="100%">
+<tr>
+<td width="50%">
+
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
----
+</td>
+<td width="50%">
 
 ### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🤖 AI / Agent Systems
 ![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-000)
 ![MCP](https://img.shields.io/badge/-MCP%20Integration-000)
 ![Tooling](https://img.shields.io/badge/-Tool%20Orchestration-000)
 
----
+</td>
+<td width="50%">
 
 ### 📊 Data & Processing
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 
----
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ### 🛠️ Tools & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+</td>
+</tr>
+</table>
 
 ---
 
