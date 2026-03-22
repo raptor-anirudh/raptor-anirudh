@@ -71,6 +71,12 @@
 
 ---
 
+## 📝 Latest Blog Posts
+
+- 🧠 [The 2026 Productivity Shift: Working Smarter Is Finally Beating Working Longer](https://medium.com/@v.anirudh2003/the-2026-productivity-shift-working-smarter-is-finally-beating-working-longer-10e6e1261284)
+
+---
+
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/anirudh13v/)
