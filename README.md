@@ -42,10 +42,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raptor-anirudh&show_icons=true&hide_border=true&include_all_commits=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=raptor-anirudh&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raptor-anirudh)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raptor-anirudh&show_icons=true&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=raptor-anirudh&hide_border=true" height="180em" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raptor-anirudh" width="100%" />
+</div>
 
 ---
 
