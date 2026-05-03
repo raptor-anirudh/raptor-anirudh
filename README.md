@@ -109,6 +109,7 @@
 
 ## 📝 Latest Blog Posts
 
+- 🧠 [I Thought I Understood AI…Until I Learned These 5 Concepts](https://medium.com/@v.anirudh2003/i-thought-i-understood-ai-until-i-learned-these-5-concepts-b563e2670b11)
 - 🧠 [The 2026 Productivity Shift: Working Smarter Is Finally Beating Working Longer](https://medium.com/@v.anirudh2003/the-2026-productivity-shift-working-smarter-is-finally-beating-working-longer-10e6e1261284)
 
 ---
